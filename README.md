@@ -1,4 +1,4 @@
 # HitHubDemo
 This is my First Repository
 <br>
-author-krishna singh
+author-krishna singh(btech)
